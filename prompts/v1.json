@@ -1,0 +1,14 @@
+[
+  {
+    "id": "moving-marker",
+    "kind": "create",
+    "starter": "blank",
+    "prompt": "Draw a moving blue marker."
+  },
+  {
+    "id": "blank-canvas",
+    "kind": "create",
+    "starter": "blank",
+    "prompt": "Draw a marker; the demonstration intentionally returns a blank canvas."
+  }
+]

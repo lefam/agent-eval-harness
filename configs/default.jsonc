@@ -1,0 +1,8 @@
+{
+  "model": "demo/scripted",
+  "repeats": 2,
+  "maxCostUsd": 1,
+  "prompts": "../prompts/v1.json",
+  "outDir": "../results",
+  "tag": "Offline scripted demonstration; no model calls"
+}
