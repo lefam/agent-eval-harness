@@ -1,6 +1,6 @@
 # Agent evaluation harness
 
-Run repeatable checks on agent-generated software and compare correctness, tool use, latency and estimated cost. Extracted from the evaluation tooling I built for Loop.
+Run repeatable checks on agent-generated software and compare correctness, tool use, latency and estimated cost. Extracted from the evaluation tooling I built for [Loop](https://liveloop.run/).
 
 ## Run
 
